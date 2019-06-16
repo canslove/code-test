@@ -1,5 +1,1 @@
-# hello-world
-My first repository on GitHub
-## test github repo
-## another line
-## change hello world
+This is the place to practice for ML research skills, methods, algorithms, and projects.
